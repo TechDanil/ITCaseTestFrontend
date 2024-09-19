@@ -1,0 +1,1 @@
+export { default as ShowProductDetails } from './ui/showProductDetails/ShowProductDetails'
